@@ -1,0 +1,92 @@
+SpaceEngine License    https://spaceengine.org/manual/license/
+
+
+LICENSE
+
+Copyright on the “SpaceEngine” software belongs to Vladimir Romanyuk 
+“SpaceEngineer” (the Author). The Author reserves all other rights in the 
+Software not expressly granted to you here. Subject to your compliance with 
+these terms and conditions, the Author grants you a royalty-free, 
+non-exclusive license to use, copy and distribute the Software, and any 
+content created with the Software (screenshots, video, textures, scripts), 
+without fee, for personal, educational, charity and other non-commercial 
+use. If you want to use the Software or content created with the Software 
+for commercial purposes, please contact the Author at admin@spaceengine.org.
+
+
+LIMITATIONS
+
+The source code, design, and structure of the Software are trade secrets. 
+You will not disassemble, decompile, reverse engineer, or distribute it, in 
+whole or in part, except to the extent expressly permitted by law. You will 
+not sell the Software or any parts of it, or charge others for use of it 
+(either for profit or merely to recover your media and distribution costs) 
+whether as a stand-alone product, as part of a compilation or anthology, or 
+included in a separate software package, without explicit prior written 
+permission by the Author. You will not remove or alter any copyright or 
+license notices contained in the Software and documentation, or remove or 
+alter any identifying elements, including splash screens and logos, or try 
+to hide or reassign in any way the name or origin of the software or any of 
+its components. You will not use the Software or any parts of it to 
+advertise, promote, present or sell any software or other product or service
+without explicit prior written permission by the Author. You will not use 
+the Software to engage in or allow others to engage in any illegal activity.
+
+
+DISCLAIMER OF WARRANTIES
+
+The Software is provided by the Author ‘as is’. The Author disclaims any 
+responsibility for harm resulting from the Software or any software or 
+content downloaded using the Software, whether or not the Author approved 
+such software or content. The Author expressly disclaims all warranties and 
+conditions, expressed or implied, including any implied warranties and 
+conditions of merchantability, fitness for a particular purpose, and 
+noninfringement, and any warranties and conditions arising out of course of 
+dealing or usage of trade regarding the Software or any software or content 
+you download using the Software. No advice or information, whether oral or 
+written, obtained from the Author or elsewhere will create any warranty or 
+condition not expressly stated in this agreement. Some jurisdictions do not 
+allow certain limitations on implied warranties, so the above limitation may
+not apply to you to its full extent.
+
+
+Third-party Libraries License Agreements
+
+libjpeg (BSD-like)
+https://jpegclub.org/reference/libjpeg-license/
+
+libpng
+https://spdx.org/licenses/Libpng
+
+libtiff (BSD-like)
+https://spdx.org/licenses/libtiff.html
+
+Vorbis (BSD-3-Clause)
+https://github.com/naudio/Vorbis/blob/master/LICENSE
+
+zlib
+https://www.zlib.net/zlib_license.html
+
+GLEW (OpenGL Extension Wrangler Library)
+https://github.com/nigels-com/glew/blob/master/LICENSE.txt
+
+SDL (Simple DirectMedia Layer) (SDL2.0, zlib)
+https://www.libsdl.org/license.php
+
+OpenAL (LGPLv3)
+http://www.gnu.org/copyleft/lgpl.html
+
+libovr
+https://www.oculus.com/legal/privacy-policy-for-oculus-account-users/
+
+openvr (BSD 3-Clause)
+https://github.com/ValveSoftware/openvr/blob/master/LICENSE
+
+FreeType (FTL, GPLv2)
+https://www.freetype.org/license.html
+
+Noto fonts (SIL OFL1.1)
+https://github.com/googlefonts/noto-fonts/blob/main/LICENSE
+
+DejaVu Fonts
+https://dejavu-fonts.github.io/License.html
