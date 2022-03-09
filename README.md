@@ -1,6 +1,6 @@
-# Templates of the licenses
+# Licenses
 
-Most free-and-open-source and partial proprietary copies of licenses.
+Templates of open source licenses
 
 *This repository is currently under construction. I'm adding more licenses into it!*
 
